@@ -6,15 +6,15 @@ Index
 Generative Model
 
 AutoEncoder<br>
-|
-|--VAE
-|
-|--GAN
-    |
-    |--DCGAN
-    |
-    |--WGANW
-    |
-    |--Conditional GAN
-    |
-    |--Cycle GAN
+|<br>
+|--VAE<br>
+|<br>
+|--GAN<br>
+    |<br>
+    |--DCGAN<br>
+    |<br>
+    |--WGANW<br>
+    |<br>
+    |--Conditional GAN<br>
+    |<br>
+    |--Cycle GAN<br>
