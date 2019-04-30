@@ -10,7 +10,7 @@ AutoEncoder<br>
 |--VAE<br>
 |<br>
 |--GAN<br>
-&nbsp&nbsp|<br>
+&nbsp;&nbsp;|<br>
 &nbsp&nbsp|--DCGAN<br>
 &nbsp&nbsp|<br>
 &nbsp&nbsp|--WGANW<br>
