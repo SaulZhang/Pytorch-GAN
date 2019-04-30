@@ -5,7 +5,7 @@ Index
 
 Generative Model
 
-AutoEncoder
+AutoEncoder<br>
 |
 |--VAE
 |
