@@ -10,11 +10,11 @@ AutoEncoder<br>
 |--VAE<br>
 |<br>
 |--GAN<br>
-    |<br>
-    |--DCGAN<br>
-    |<br>
-    |--WGANW<br>
-    |<br>
-    |--Conditional GAN<br>
-    |<br>
-    |--Cycle GAN<br>
+&nbsp&nbsp|<br>
+&nbsp&nbsp|--DCGAN<br>
+&nbsp&nbsp|<br>
+&nbsp&nbsp|--WGANW<br>
+&nbsp&nbsp|<br>
+&nbsp&nbsp|--Conditional GAN<br>
+&nbsp&nbsp|<br>
+&nbsp&nbsp|--Cycle GAN<br>
