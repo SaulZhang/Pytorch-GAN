@@ -18,3 +18,4 @@ AutoEncoder<br>
 &nbsp;&nbsp;|--Conditional GAN<br>
 &nbsp;&nbsp;|<br>
 &nbsp;&nbsp;|--Cycle GAN<br>
+ 
