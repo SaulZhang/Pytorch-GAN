@@ -19,22 +19,22 @@ AutoEncoder<br>
 &nbsp;&nbsp;|<br>
 &nbsp;&nbsp;|--Cycle GAN<br>
 
-AutoEncoder MNIST数据集生成效果<br>
+<b>AutoEncoder MNIST数据集生成效果<b><br>
 
-epoch 1:
+<center>epoch 1:<br>
 ![Alt text](https://github.com/SaulZhang/GAN/blob/master/pic/image_epoch1.png)
 
-epoch 20:
+<center>epoch 20:<br>
 ![Alt text](https://github.com/SaulZhang/GAN/blob/master/pic/image_epoch20.png)
 
-epoch 40:
+<center>epoch 40:<br>
 ![Alt text](https://github.com/SaulZhang/GAN/blob/master/pic/image_epoch40.png)
 
-epoch 60:
+<center>epoch 60:<br>
 ![Alt text](https://github.com/SaulZhang/GAN/blob/master/pic/image_epoch60.png)
 
-epoch 80:
+<center>epoch 80:<br>
 ![Alt text](https://github.com/SaulZhang/GAN/blob/master/pic/image_epoch80.png)
 
-epoch 100:
+<center>epoch 100:<br>
 ![Alt text](https://github.com/SaulZhang/GAN/blob/master/pic/image_epoch100.png)
