@@ -20,12 +20,15 @@ AutoEncoder<br>
 &nbsp;&nbsp;|<br>
 &nbsp;&nbsp;|--Cycle GAN<br>
 
-<h2>AutoEncoder MNIST数据集生成效果</h2><br>
-![image](https://github.com/SaulZhang/GAN/blob/master/pic/autoencoder-linear.png)<br>
+<h2>AutoEncoder MNIST数据集生成效果</h2>
 
-<h2>VAE MNIST数据集生成效果</h2><br>
-VAE网络框架:<br>
-![image](https://github.com/SaulZhang/GAN/blob/master/pic/vae.png)<br>
+![image](https://github.com/SaulZhang/GAN/blob/master/pic/autoencoder-linear.png)
 
-MNIST数据集生成效果:<br>
-![image](https://github.com/SaulZhang/GAN/blob/master/pic/vae_linear.png)<br>
+<h2>VAE MNIST数据集生成效果</h2>
+<h3>VAE网络框架:</h3><br>
+
+![image](https://github.com/SaulZhang/GAN/blob/master/pic/vae.png)
+
+<h3>MNIST数据集生成效果:</h3>
+
+![image](https://github.com/SaulZhang/GAN/blob/master/pic/vae_linear.png)
