@@ -23,3 +23,7 @@ AutoEncoder<br>
 <b>AutoEncoder MNIST数据集生成效果</b>
 </br>
 ![image](https://github.com/SaulZhang/GAN/blob/master/pic/autoencoder-linear.png)<br>
+
+<b>VAE MNIST数据集生成效果</b>
+VAE网络框架:
+![image](https://github.com/SaulZhang/GAN/blob/master/pic/vae.png)<br>
