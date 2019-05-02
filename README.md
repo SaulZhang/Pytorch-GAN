@@ -32,3 +32,7 @@ AutoEncoder<br>
 <h3>MNIST数据集生成效果:</h3>
 
 ![image](https://github.com/SaulZhang/GAN/blob/master/pic/vae_linear.png)
+
+<h2>不同GAN在MNIST数据集上的生成效果对比</h2>
+
+![image](https://github.com/SaulZhang/GAN/blob/master/pic/GAN_mnist.png)
