@@ -5,22 +5,19 @@ import math
 import itertools
 import datetime
 import time
-
 import torchvision.transforms as transforms
-from torchvision.utils import save_image, make_grid
-
-from torch.utils.data import DataLoader
-from torchvision import datasets
-from torch.autograd import Variable
-
-from models import *
-from datasets import *
-from utils import *
-
 import torch.nn as nn
 import torch.nn.functional as F
 import torch
 import sys
+
+from torchvision.utils import save_image, make_grid
+from torch.utils.data import DataLoader
+from torchvision import datasets
+from torch.autograd import Variable
+from models import *
+from datasets import *
+from utils import *
 
 parser = argparse.ArgumentParser()
 parser.add_argument("--epoch", type=int, default=0, help="epoch to start training from")
